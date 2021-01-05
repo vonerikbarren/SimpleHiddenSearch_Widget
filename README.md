@@ -1,0 +1,1 @@
+# SimpleHiddenSearch_Widget
